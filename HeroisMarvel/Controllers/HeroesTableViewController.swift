@@ -3,7 +3,7 @@
 //  HeroisMarvel
 //
 //  Created by Max Mendes on 10/09/2019.
-//  Copyright © 2017 Max Mendes. All rights reserved.
+//  Copyright © 2019 Max Mendes. All rights reserved.
 //
 
 import UIKit
